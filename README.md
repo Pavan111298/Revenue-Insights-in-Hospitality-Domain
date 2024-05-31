@@ -8,4 +8,9 @@ Due to strategic moves from other competitors and ineffective decision-making in
 
 Live Dashboard: https://app.powerbi.com/links/6itl8wNCcK?ctid=37b2807a-e312-43dc-8e47-654778ec591d&pbi_source=linkShare
 
-# Tools and Model view
+# Tools
+1. Excel
+2. Power Bi
+
+Model View
+![Screenshot 2024-05-31 165427](https://github.com/Pavan111298/Revenue-Insights-in-Hospitality-Domain/assets/150880621/e695c96a-5b14-4498-a551-7274f4d30296)
