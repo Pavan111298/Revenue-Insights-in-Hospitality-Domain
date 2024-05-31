@@ -14,3 +14,9 @@ Live Dashboard: https://app.powerbi.com/links/6itl8wNCcK?ctid=37b2807a-e312-43dc
 
 Model View
 ![Screenshot 2024-05-31 165427](https://github.com/Pavan111298/Revenue-Insights-in-Hospitality-Domain/assets/150880621/e695c96a-5b14-4498-a551-7274f4d30296)
+
+
+
+
+
+
