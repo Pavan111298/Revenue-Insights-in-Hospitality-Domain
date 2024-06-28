@@ -12,7 +12,7 @@ Due to strategic moves from other competitors and ineffective decision-making in
 
 ## Tools :
 1. Excel
-2. Power Bi
+2. Power BI
 
 ## Dataset : https://codebasics.io/resources/end-to-end-data-analyst-project
 
